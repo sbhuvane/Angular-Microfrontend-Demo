@@ -190,7 +190,7 @@
           "options": {
             "browserTarget": "mfe1:build",
             "extraWebpackConfig": "projects/mfe1/webpack.config.js",
-            "port": 4300
+            "port": 50000
           },
           "configurations": {
             "production": {
